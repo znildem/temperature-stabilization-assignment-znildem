@@ -150,14 +150,14 @@ The book is written is a very conversational style that is both enjoyable and ac
 ## Execution Screenshots
 
 ### During Iterations
-![During iterations](screenshots/during iterations.png)
-![Iteration complete](screenshots/iteration complete.png)
-![Iteration complete 2](screenshots/iteration complete 2.png)
-![Iteration complete 3](screenshots/iteration complete 3.png)
+![During iterations](screenshots/during%20iterations.png)
+![Iteration complete](screenshots/iteration%20complete.png)
+![Iteration complete 2](screenshots/iteration%20complete%202.png)
+![Iteration complete 3](screenshots/iteration%20complete%203.png)
 
 ### Final Stabilization
-![Client 1 Finished](screenshots/finished client 1.png)
-![Client 2 Finished](screenshots/finished client 2.png)
-![Client 3 Finished](screenshots/finished client 3.png)
-![Client 4 Finished](screenshots/finished client 4.png)
+![Client 1 Finished](screenshots/finished%20client%201.png)
+![Client 2 Finished](screenshots/finished%20client%202.png)
+![Client 3 Finished](screenshots/finished%20client%203.png)
+![Client 4 Finished](screenshots/finished%20client%204.png)
 
