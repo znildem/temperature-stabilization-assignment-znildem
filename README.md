@@ -147,3 +147,17 @@ Open four terminals and in each one run:
 The book is written is a very conversational style that is both enjoyable and accessible. I think you will enjoy reading it. Give it a try if you have time. If you want just to learn about serialization in network communication then read the Section **7.5 Serialization—How to Pack Data** (https://beej.us/guide/bgnet/html/split-wide/slightly-advanced-techniques.html#serialization). 
 
  
+## Execution Screenshots
+
+### During Iterations
+![During iterations](screenshots/during iterations.png)
+![Iteration complete](screenshots/iteration complete.png)
+![Iteration complete 2](screenshots/iteration complete 2.png)
+![Iteration complete 3](screenshots/iteration complete 3.png)
+
+### Final Stabilization
+![Client 1 Finished](screenshots/finished client 1.png)
+![Client 2 Finished](screenshots/finished client 2.png)
+![Client 3 Finished](screenshots/finished client 3.png)
+![Client 4 Finished](screenshots/finished client 4.png)
+
